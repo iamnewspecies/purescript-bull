@@ -16,7 +16,7 @@
     "queue"
   ],
   "author": "newspecies",
-  "license": "MIT",
+  "license": "GNU GPLv3",
   "homepage": "https://bitbucket.org/newspecies/purescript-bull#readme",
   "dependencies": {
     "bull": "^3.4.8",

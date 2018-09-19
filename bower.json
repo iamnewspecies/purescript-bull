@@ -10,7 +10,7 @@
     "wrapper",
     "queue"
   ],
-  "license": "MIT",
+  "license": "GNU GPLv3",
   "homepage": "",
   "private": true,
   "ignore": [
