@@ -1,0 +1,32 @@
+{
+  "name": "purescript-bull",
+  "authors": [
+    "newspecies"
+  ],
+  "description": "purescript wrapper for bull(Radis based queue)",
+  "main": "index.js",
+  "keywords": [
+    "bull",
+    "wrapper",
+    "queue"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-aff-promise": "^0.7.0",
+    "purescript-options": "^3.1.0",
+    "purescript-aff": "3.1.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "3.0.0",
+    "purescript-debug": "3.0.0"
+  }
+}
